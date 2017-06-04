@@ -1,0 +1,181 @@
+{
+   "total":"25",
+   "startIndex":"0",
+   "data":[
+      {
+         "id":"0",
+         "title":"One Direction: This Is Us",
+         "img":"http://172.18.0.137/xdk2/img/onedirection.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"A look at Niall, Zayn, Liam, Louis, and Harry's meteoric rise to fame, from their humble hometown beginnings and competing on the X-Factor, to conquering the world and performing at London's famed O2 Arena."
+      },
+      {
+         "id":"1",
+         "title":"Lee Daniels' The Butler",
+         "img":"http://172.18.0.137/xdk2/img/leedaniel.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"As Cecil Gaines serves eight presidents during his tenure as a butler at the White House, the civil rights movement, Vietnam, and other major events affect this man's life, family, and American society."
+      },
+      {
+         "id":"2",
+         "title":"We're the Millers",
+         "img":"http://172.18.0.137/xdk2/img/wearemillers.jpg",
+         "url":"http://172.18.0.137/testingVideo/big.mp4",
+         "desc":"A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico."
+      },
+      {
+         "id":"3",
+         "title":"Planes",
+         "img":"http://172.18.0.137/xdk2/img/planes.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"A cropdusting plane with a fear of heights lives his dream of competing in a famous around-the-world aerial race."
+      },
+      {
+         "id":"4",
+         "title":"Instructions Not Included",
+         "img":"http://172.18.0.137/xdk2/img/instruction.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"A man who has made a new life for himself and the daughter left on his doorstep 6 years ago finds his family threatened when the birth mother resurfaces."
+      },
+      {
+         "id":"5",
+         "title":"Elysium",
+         "img":"http://172.18.0.137/xdk2/img/elysium.jpg",
+         "url":"http://172.18.0.137/testingVideo/big.mp4",
+         "desc":"Set in the year 2154, where the very wealthy live on a man-made space station while the rest of the population resides on a ruined Earth, a man takes on a mission that could bring equality to the polarized worlds."
+      },
+      {
+         "id":"6",
+         "title":"The Mortal Instruments: City of Bones",
+         "img":"http://172.18.0.137/xdk2/img/mortal.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"When her mother disappears, Clary Fray learns that she descends from a line of warriors who protect our world from demons. She joins forces with others like her and heads into a dangerous alternate New York called Downworld."
+      },
+      {
+         "id":"7",
+         "title":"The World's End",
+         "img":"http://172.18.0.137/xdk2/img/world.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier unwittingly become humankind's only hope for survival."
+      },
+      {
+         "id":"8",
+         "title":"Getaway",
+         "img":"http://172.18.0.137/xdk2/img/getaway.jpg",
+         "url":"http://172.18.0.137/testingVideo/big.mp4",
+         "desc":"Former race-car driver Brent Magna is pitted against the clock when his wife is kidnapped by a mysterious villain. He commanders a young woman's car and takes her on on a high-speed race against time."
+      },
+      {
+         "id":"9",
+         "title":"Percy Jackson: Sea of Monsters",
+         "img":"http://172.18.0.137/xdk2/img/percy.jpg",
+         "url":"http://172.18.0.137/testingVideo/big.mp4",
+         "desc":"In order to restore their dying safe haven, the son of Poseidon and his friends embark on a quest to the Sea of Monsters to find the mythical Golden Fleece while trying to stop an ancient evil from rising."
+      },
+      {
+         "id":"10",
+         "title":"Divergent",
+         "img":"http://172.18.0.137/xdk2/img/diver.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"Beatrice Prior, a teenager with a special mind, finds her life threatened when an authoritarian leader seeks to exterminate her kind in her effort to seize control of their divided society."
+      },
+      {
+         "id":"11",
+         "title":"Kick-Ass 2",
+         "img":"http://172.18.0.137/xdk2/img/ass.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"The costumed high-school hero Kick-Ass joins with a group of normal citizens who have been inspired to fight crime in costume. Meanwhile, the Red Mist plots an act of revenge that will affect everyone Kick-Ass knows."
+      },
+      {
+         "id":"12",
+         "title":"Now You See Me",
+         "img":"http://172.18.0.137/xdk2/img/see.jpg",
+         "url":"http://172.18.0.137/testingVideo/big.mp4",
+         "desc":"An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money."
+      },
+      {
+         "id":"13",
+         "title":"X-Men: Days of Future Past",
+         "img":"http://172.18.0.137/xdk2/img/x.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"The X-Men send Wolverine to the past to change a major historical event that could globally impact man and mutant kind."
+      },
+      {
+         "id":"14",
+         "title":"The Hunger Games: Catching Fire",
+         "img":"http://172.18.0.137/xdk2/img/hunger.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem."
+      },
+      {
+         "id":"15",
+         "title":"Insidious: Chapter 2",
+         "img":"http://172.18.0.137/xdk2/img/inside.jpg",
+         "url":"http://172.18.0.137/testingVideo/big.mp4",
+         "desc":"The haunted Lambert family seeks to uncover the mysterious childhood secret that has left them dangerously connected to the spirit world.."
+      },
+      {
+         "id":"16",
+         "title":"Prisoners",
+         "img":"http://172.18.0.137/xdk2/img/prisoner.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will this desperate father go to protect his family?"
+      },
+      {
+         "id":"17",
+         "title":"Baggage Claim",
+         "img":"http://172.18.0.137/xdk2/img/bag.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"Pledging to keep herself from being the oldest and the only woman in her entire family never to wed, Montana embarks on a thirty-day, thirty-thousand-mile expedition to charm a potential suitor into becoming her fiance."
+      },
+      {
+         "id":"18",
+         "title":"Rush",
+         "img":"http://172.18.0.137/xdk2/img/rush.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"A re-creation of the merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda."
+      },
+      {
+         "id":"19",
+         "title":"The Ultimate Life",
+         "img":"http://172.18.0.137/xdk2/img/life.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"A billionaire with questionable priorities re-examines his life after discovering his grandfather's journal."
+      },
+      {
+         "id":"20",
+         "title":"Populaire",
+         "img":"http://172.18.0.137/xdk2/img/pop.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"1958. Rose is a terrible secretary but a demon typist. Her handsome boss resolves to turn her into the fastest girl in the world."
+      },
+      {
+         "id":"21",
+         "title":"Gravity",
+         "img":"http://172.18.0.137/xdk2/img/gravity.jpg",
+         "url":"http://172.18.0.137/testingVideo/big.mp4",
+         "desc":"A medical engineer and an astronaut work together to survive after an accident leaves them adrift in space."
+      },
+      {
+         "id":"22",
+         "title":"Captain Phillips",
+         "img":"http://172.18.0.137/xdk2/img/captain.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years."
+      },
+      {
+         "id":"23",
+         "title":"The Fifth Estate",
+         "img":"http://172.18.0.137/xdk2/img/fifth.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"A dramatic thriller based on real events, THE FIFTH ESTATE reveals the quest to expose the deceptions and corruptions of power that turned an Internet upstart into the 21st century's most fiercely debated organization."
+      },
+      {
+         "id":"24",
+         "title":"All Is Lost",
+         "img":"http://172.18.0.137/xdk2/img/lost.jpg",
+         "url":"http://172.18.0.137/testingVideo/av.mp4",
+         "desc":"After a collision with a shipping container at sea, a resourceful sailor finds himself, despite all efforts to the contrary, staring his mortality in the face."
+      }
+   ]
+}

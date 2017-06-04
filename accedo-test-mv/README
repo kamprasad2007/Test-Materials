@@ -1,0 +1,6 @@
+To run the server:
+$> npm install
+$> node app.js
+
+To run the test:
+$> npm run dev

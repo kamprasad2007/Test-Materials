@@ -1,0 +1,21 @@
+{
+  "name": "programming-test-mw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./app.spec.js",
+    "dev": "node ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "chai-http": "^3.0.0",
+    "jshint": "^2.9.4",
+    "mocha": "^3.4.2"
+  }
+}

@@ -1,0 +1,47 @@
+.article{
+	padding: 10px;
+}
+
+.article:hover {
+	padding: 5px;
+	font-weight: bold;
+}
+
+.article {
+
+	.title{
+		text-overflow: ellipsis;
+		overflow: hidden;
+		white-space: nowrap; 
+		text-decoration: underline black;
+	}
+
+	img{
+		height: 100%; 
+		width: 100%; 
+		object-fit: contain;
+		border-radius: 5%;
+		opacity: 0.8;
+	}
+
+	img:hover {
+		box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+		opacity: 1;
+	}
+
+	.desc {
+		height:60px;
+		text-overflow: ellipsis;
+		overflow: hidden;
+		font-size: 10px;
+	}
+}
+
+.example-appear {
+   opacity: 0.01;
+}
+
+.example-appear.example-appear-active {
+   opacity: 0.8;
+   transition: opacity 500ms ease-in;
+}
